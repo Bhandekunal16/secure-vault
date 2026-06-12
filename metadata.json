@@ -1,0 +1,6 @@
+{
+  "name": "Secure Vault",
+  "description": "A premium, end-to-end encrypted personal vault application storing photos, videos, notes, passwords, and documents securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
